@@ -19,9 +19,11 @@ export function AboutSection() {
               I am <span>Sanket Patil</span>{" "}
             </h2>
             <p>
-              A web developer with excellent problem solving skills and ability
-              to perform well in a team. Proficient in front-end, back-end and
-              data structures and algorithms.
+            A web developer with a vast array of knowledge in
+many different front end and backend languages,
+responsive frameworks, databases, and best code
+practices. Look forward to using my skills for gaining
+more experience.
             </p>
           </div>
         </div>

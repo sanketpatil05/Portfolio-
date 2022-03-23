@@ -79,7 +79,7 @@ export function HeroSection() {
         <div className={styles.socialCont}>
           <a
             rel="noreferrer"
-            href="https://github.com/sanketpatil05"
+            href="https://www.linkedin.com/in/sanket-patil-455700188/"
             className={classes.a}
             target="_blank"
           >
@@ -87,7 +87,7 @@ export function HeroSection() {
           </a>
           <a
             rel="noreferrer"
-            href="https://www.linkedin.com/in/sanket-patil-455700188/"
+            href="https://github.com/sanketpatil05/"
             className={classes.a}
             target="_blank"
           >
