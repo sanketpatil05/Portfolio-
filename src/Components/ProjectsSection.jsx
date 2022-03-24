@@ -48,42 +48,26 @@ const projects = [
   //   about:
   //     " It is an e-commerce website having varieties of luxury items which are of high quality. We have tried to clone the pixel perfect website with the help of HTML. Implemented using HTML, CSS and javascript.",
   //   stacks: [
-  //     // <SiReact className={styles.stackIcon} />,
+  //     
   //     <SiJavascript className={styles.stackIcon} />,
   //     <SiHtml5 className={styles.stackIcon} />,
   //     <SiCss3 className={styles.stackIcon} />,
   //   ],
   // },
-  // {
-  //   name: "You Tube App",
-  //   img: "/doggo2.png",
-  //   link: "https://pixel-pic.vercel.app/",
-  //   git: "https://github.com/Gajanan-Watt/pixelArt.git",
-  //   about:
-  //     "This project will let you design the pixel art. Let your creativity flow and convert them to images",
-  //   stacks: [
-  //     <SiReact className={styles.stackIcon} />,
-  //     <SiJavascript className={styles.stackIcon} />,
-  //     <SiHtml5 className={styles.stackIcon} />,
-  //     <SiCss3 className={styles.stackIcon} />,
-  //   ],
-  // },
-  // {
-  //   name: "Airbnb.com clone",
-  //   img: "/Airbnb.png",
-  //   link: "https://airbnb-clone-one-weld.vercel.app/",
-  //   git: "https://github.com/ks-1007/Airbnb-clone",
-  //   about:
-  //     "Airbnb is a hotel booking online platform. Implemented features to search for hotels based on ratings, reviews and price range and then booking it after selecting check-in & check-out dates",
-
-  //   stacks: [
-  //     <SiReact className={styles.stackIcon} />,
-  //     <SiRedux className={styles.stackIcon} />,
-
-  //     <SiJavascript className={styles.stackIcon} />,
-  //     <SiCss3 className={styles.stackIcon} />,
-  //   ],
-  // },
+  {
+    name: "You Tube App",
+    img: "/youtube.png",
+    link: "https://you-tube-mini.netlify.app/",
+    git: "https://github.com/sanketpatil05/Youtube",
+    about:
+      "This project will let you design the pixel art. Let your creativity flow and convert them to images",
+    stacks: [
+      <SiJavascript className={styles.stackIcon} />,
+      <SiHtml5 className={styles.stackIcon} />,
+      <SiCss3 className={styles.stackIcon} />,
+    ],
+  }
+  
   // {
   //   name: "Contio",
   //   img: "/contio.png",
@@ -102,19 +86,7 @@ const projects = [
   //   ],
   // },
 
-  // {
-  //   name: "Sephora.com clone",
-  //   img: "/sephora.png",
-  //   link: "https://project-sephora.vercel.app/",
-  //   git: "https://github.com/ks-1007/Project-Sephora",
-  //   about:
-  //     "Sephora is an American e-commerce website which sells beauty products. Features are implemented to select products from carousel and add products to cart and do CRUD operations",
-  //   stacks: [
-  //     <SiJavascript className={styles.stackIcon} />,
-  //     <SiHtml5 className={styles.stackIcon} />,
-  //     <SiCss3 className={styles.stackIcon} />,
-  //   ],
-  // },
+ 
 ]
 export function ProjectsSection() {
   return (
