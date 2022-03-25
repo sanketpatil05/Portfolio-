@@ -16,7 +16,7 @@ const projects = [
     link: "https://cocky-mcclintock-3cafba.netlify.app/home.html",
     git: "https://github.com/vikasg57/flipkart-clone",
     about:
-      "This is e-commerce website used for shopping wide range of products.This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS, NodeJs, Express.",
+      "This is e-commerce website used for shopping wide range of products.This was a team project where I with my teammates had created. ",
     stacks: [
      // <SiReact className={styles.stackIcon} />,
       <SiNodedotjs className={styles.stackIcon} />,
@@ -32,7 +32,7 @@ const projects = [
     link: "https://fraazo.netlify.app/",
     git: "https://github.com/venkat0086/fraazo",
     about:
-      " This is e-commerce application for fruits and vegetables. This was a team project where I with my teammates had created. Tech Stack which we used in this project is HTML, CSS, JS.",
+      " This is e-commerce application for fruits and vegetables. This was a team project where I with my teammates had created.",
     stacks: [
       // <SiReact className={styles.stackIcon} />,
       <SiJavascript className={styles.stackIcon} />,
