@@ -17,7 +17,7 @@ export function ContactSection() {
   const handleOnSubmit = (e) => {
     e.preventDefault()
    
-    emailjs.sendForm('service_o87nnal', 'template_ig7lakc', e.target, 'v6XbrIZLnDEV-IVZ-').then(
+    emailjs.sendForm('service_h5h4lbo', 'template_ig7lakc', e.target, 'v6XbrIZLnDEV-IVZ-').then(
       (result) => {
         console.log(result.text)
         Swal.fire({
