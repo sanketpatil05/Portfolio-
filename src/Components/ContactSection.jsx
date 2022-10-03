@@ -16,7 +16,7 @@ export function ContactSection() {
   
   const handleOnSubmit = (e) => {
     e.preventDefault()
-   
+   console.log(e);
     emailjs.sendForm('service_tgbby7f', 'template_ig7lakc', e.target, 'oiuzDOOWmqy6EYnZ_').then(
       (result) => {
         console.log(result.text)
