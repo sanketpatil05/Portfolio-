@@ -34,6 +34,9 @@ export function Navbar() {
           spy={true}
           hashSpy={true}
         >
+            
+            
+            
           <div className={styles.nav}>Skills</div>
         </Link>
         <Link
